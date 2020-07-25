@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GRS-frontend/static/css/main.28ceecc4.chunk.css",
+    "main.js": "/GRS-frontend/static/js/main.b1b1fbb0.chunk.js",
+    "main.js.map": "/GRS-frontend/static/js/main.b1b1fbb0.chunk.js.map",
+    "runtime-main.js": "/GRS-frontend/static/js/runtime-main.4cd9249a.js",
+    "runtime-main.js.map": "/GRS-frontend/static/js/runtime-main.4cd9249a.js.map",
+    "static/css/2.0296b075.chunk.css": "/GRS-frontend/static/css/2.0296b075.chunk.css",
+    "static/js/2.e1191aaa.chunk.js": "/GRS-frontend/static/js/2.e1191aaa.chunk.js",
+    "static/js/2.e1191aaa.chunk.js.map": "/GRS-frontend/static/js/2.e1191aaa.chunk.js.map",
+    "index.html": "/GRS-frontend/index.html",
+    "precache-manifest.63d702545b59b6afbbf239b91dfded10.js": "/GRS-frontend/precache-manifest.63d702545b59b6afbbf239b91dfded10.js",
+    "service-worker.js": "/GRS-frontend/service-worker.js",
+    "static/css/2.0296b075.chunk.css.map": "/GRS-frontend/static/css/2.0296b075.chunk.css.map",
+    "static/css/main.28ceecc4.chunk.css.map": "/GRS-frontend/static/css/main.28ceecc4.chunk.css.map",
+    "static/js/2.e1191aaa.chunk.js.LICENSE.txt": "/GRS-frontend/static/js/2.e1191aaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cd9249a.js",
+    "static/css/2.0296b075.chunk.css",
+    "static/js/2.e1191aaa.chunk.js",
+    "static/css/main.28ceecc4.chunk.css",
+    "static/js/main.b1b1fbb0.chunk.js"
+  ]
+}
